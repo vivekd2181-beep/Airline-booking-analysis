@@ -1,6 +1,6 @@
 # ✈️ Airline Booking Analysis Using Python & Seaborn
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 
 This project aims to perform a comprehensive **exploratory data analysis (EDA)** on an airline customer booking dataset. The goal is to uncover trends and patterns related to **trip types, booking preferences, extra services, and completion behavior** using Python and visualizations.
 
@@ -84,4 +84,5 @@ This EDA highlights customer behavior patterns that can guide:
 - Sales optimizations (e.g. improve mobile booking experience).
 
 ---
+
 
